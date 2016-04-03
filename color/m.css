@@ -48,6 +48,7 @@ body>a{ display: none; }
     top: 5px;
     right: 0px;
     height: 40px;
+    min-width: auto;
     width: 80px;
     line-height: 40px;
     padding: 0;
@@ -188,7 +189,9 @@ body>a{ display: none; }
     font-size: 20px;
     font-family: '微软雅黑';
     height: 45px;
-    width: 220px;
+    min-width: 220px;
+    padding-left:5px;
+    padding-right:5px;
     line-height: 45px;
     -webkit-tap-highlight-color:rgba(0,0,0,0);
 }
