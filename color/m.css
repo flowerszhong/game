@@ -49,7 +49,7 @@ body>a{ display: none; }
     right: 0px;
     height: 40px;
     min-width: auto;
-    width: 80px;
+    max-width: 120px!important;
     line-height: 40px;
     padding: 0;
     margin: 0;
